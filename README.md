@@ -1,0 +1,2 @@
+# PureDanknessBot
+Bot for Discord
